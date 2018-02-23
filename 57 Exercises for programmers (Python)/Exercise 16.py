@@ -22,5 +22,5 @@ while True:
 
 
 
-#yes if age >= legal_age else no
+#yes if age >
 
