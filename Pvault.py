@@ -1,6 +1,7 @@
 #! python3
 #pvault.py - Dungeon of passwords
-import  sys,pyperclip
+import sys
+import pyperclip
 
 PASSWORDS = {'email' : 'erger',
              'facebook' : 'sdfrferg',
